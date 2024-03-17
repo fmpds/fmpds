@@ -6,9 +6,7 @@
 
 - 🔭 Data Scientist at LexisNexisRisk Solutions 
 - <3 The trajectory in my life allowed me to find in Data Science the personal satisfaction I have always sought. I Love Data <3
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm surfer :)
 
 
 ## Tools and Technologies
